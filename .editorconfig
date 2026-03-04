@@ -1,0 +1,33 @@
+# EditorConfig: https://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+# All files
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+# Markdown files
+[*.md]
+indent_size = 4
+trim_trailing_whitespace = false
+max_line_length = off
+
+# JSON files
+[*.json]
+indent_size = 2
+
+# JavaScript, TS, JSX and TSX files (React code)
+[*.{js,ts,jsx,tsx}]
+indent_size = 2
+max_line_length = 120
+
+# CSharp files
+[*.cs]
+indent_size = 4
+max_line_length = 120
