@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/build/">
+    <File Path="../CONTRIBUTING.md" />
+    <File Path="../LICENSE" />
+    <File Path="../README.md" />
+  </Folder>
+</Solution>
