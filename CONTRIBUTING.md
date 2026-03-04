@@ -79,7 +79,7 @@ This document outlines the best practices and guidelines for contributing to the
     - Organize code by feature, grouping related models, services, and endpoints together.
     - Maintain clear boundaries between layers (e.g., Application, Domain, Infrastructure) where it adds value.
     - Avoid over-engineering; prioritize simplicity and rapid iteration.
-    - 
+    -
 - **API Design:**
   - Prefer using **Minimal APIs** over traditional WebAPI controllers to simplify the codebase and improve performance.
   - Avoid using controllers unless absolutely necessary.
