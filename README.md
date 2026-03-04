@@ -9,7 +9,7 @@
 ├──docs                               # Project documentation
 ├──infra                              # Infrastructure as Code (IaC)
 ├──src                                # Source code
-├──editorconfig.json                  # Coding guidelines
+├──.editorconfig                      # Coding guidelines
 ├──CONTRIBUTING.md                    # Contribution guidelines
 └──README.md                          # This file
 ```
