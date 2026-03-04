@@ -1,6 +1,6 @@
 # API Playground
 
-**Talent Unit Portal** is your starting point for a smooth and confident onboarding experience. It brings together essential resources, key information about how the team works, and the first steps to help you get set up and ready to contribute. From useful links to guidance and support materials, the portal ensures you know where to find what you need, how things work, and how to begin making an impact.
+**API Playground** is a sandbox environment for experimenting with and exploring API development. It provides a space to prototype, test, and iterate on API designs and implementations using modern tooling and best practices.
 
 ## 📂 Repository Structure
 
