@@ -15,7 +15,7 @@ This document outlines the best practices and guidelines for contributing to the
     - Types: `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`
     - Scopes: `frontend`, `backend`, `infra`, `api`, `db`, etc.
   - Use the body to provide additional context (wrap at 72 characters)
-  - Valid example (45 characters):
+  - Valid example (44 characters):
     ```
     feat(backend): implement user authentication
 
@@ -25,8 +25,8 @@ This document outlines the best practices and guidelines for contributing to the
     ```
   - Invalid examples (exceeds 50 char limit):
     ```
-    ❌ feat: Add new user authentication with OAuth2 (❌ 48 chars, missing scope)
-    ❌ feat(backend): implement user OA2 authentication (❌ 51 chars - TOO LONG)
+    ❌ feat: Add new user authentication with OAuth2 (❌ 45 chars, missing scope)
+    ❌ feat(backend): implement user OAuth2 authentication (❌ 51 chars - TOO LONG)
     ❌ docs: Update documentation and guides for the system (❌ scope missing)
     ```
 - **Pull Requests:**
